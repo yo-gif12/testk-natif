@@ -1,0 +1,36 @@
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 30px;
+    .logo {
+      margin-top: -320px;
+    }
+    h4 {
+      margin-top: 32px;
+      font-weight: 800;
+      font-size: 20px;
+      line-height: 200%;
+    }
+    div {
+      line-height: 360%;
+    }
+  }
+  
+  .img__footer {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .icon {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin: auto;
+    p{
+        color: #888888;
+    }
+  }
+  

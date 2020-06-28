@@ -1,5 +1,9 @@
-.header{background: black;
+@import 'reset';
+@import 'avis';
+@import 'firstPart';
+@import 'socialNetwork';
+@import 'footer';
+body{
+    font-family: filson-pro, sans-serif;
 
-.title{
-    color: green;
-}}
+}
